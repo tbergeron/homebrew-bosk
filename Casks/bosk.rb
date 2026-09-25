@@ -1,6 +1,6 @@
 cask "bosk" do
-  version "0.15"
-  sha256 "32c21eb2d7420fed42607e57346cdbf22ee118db28ef4ece5aa32d4704367f7b"
+  version "0.15.1"
+  sha256 "1a5766365d119c4a4b421a1a2bb8fda4382bdddcb71fae333e68f41d5b5fb72e"
 
   url "https://github.com/tbergeron/bosk-browser/releases/download/v#{version}/Bosk-#{version}.dmg"
   name "Bosk"
